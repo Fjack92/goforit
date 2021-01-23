@@ -259,7 +259,7 @@ a:hover,a:focus{
 }
 
 .staff-page{
-        background-image: linear-gradient(rgba(77, 77, 77, 0.5), rgba(77, 77, 77, 0.5)), url();
+        background-color: #262525;
         background-size: cover;
         background-repeat: no-repeat;
         min-height: 93vh;
@@ -315,5 +315,14 @@ a:hover,a:focus{
     }
     .forms-page{
         background-image: linear-gradient(rgba(77, 77, 77, 0.5), rgba(77, 77, 77, 0.5)), url(images/background4_port.jpg);
+
+        background-size: contain;
     }
+
+
+}
+.staff-pic {
+    margin-bottom: 3em;
+    padding-left: 1.5em;
+    padding-right: 2em;
 }
