@@ -322,7 +322,24 @@ a:hover,a:focus{
 
 }
 .staff-pic {
-    margin-bottom: 3em;
+    margin-top: 2em;
+    margin-bottom: 2em;
     padding-left: 1.5em;
     padding-right: 2em;
+}
+
+.staff-bio {
+    border-color: white;
+    border-style: solid;
+    border-width: 3px;
+    margin-bottom: 5px;
+}
+
+.landing-link {
+    text-decoration: none;
+    color: white;
+}
+
+.landing-link:hover {
+    color: white;
 }
