@@ -321,6 +321,14 @@ a:hover,a:focus{
 
 
 }
+
+@media only screen and (min-height: 360px) and (max-height: 700px) {
+
+.front-page {
+    min-height: 115vh;
+}
+
+}
 .staff-pic {
     margin-top: 2em;
     margin-bottom: 2em;
